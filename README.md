@@ -1,7 +1,7 @@
 ProtoCentral ESP8266 WiFi shield 
 ==================================
  [![ESP8266Shield](https://www.protocentral.com/img/p/3/5/1/1/3511.jpg)  
-*ProtoCentral ESP8266 WiFi shield (PC-4356)*](https://www.protocentral.com/iot/935-kalam-out-of-box-iot.html?search_query=kalam&results=1)
+*ProtoCentral ESP8266 WiFi shield (PC-4356)*](https://www.protocentral.com/arduino-shields/944-protocentral-esp8266-wifi-shieldstandalone-for-arduino.html)
  
 The ESP8266 WiFi chip has taken the IoT world by storm by breaking the cost barrier and making the IoT truly possible. The ProtoCentral ESP8266 WiFi shield is an easy and quick way to add WiFi functionality to your Arduino.
 This board can be used an Arduino shield as well as a standalone breakout board if you prefer to program the ESP8266 directly. The onboard FT230X USB-to-UART circuit allows direct access to to the ESP 8266 module's UART interface. This allows programming of the ESP8266 chip's onboard processor to run the application itself without the need for an Arduino.
